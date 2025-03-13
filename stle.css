@@ -1,0 +1,44 @@
+body{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+.header{
+    background-image: url(zebra\ banner\ 2\ 1.png );
+    background-size: cover;
+    height: 600px;
+    width: 100%;
+    .kirsy{
+        color: rgb(244, 101, 101);
+        
+    }
+  .nav-link{
+    color: white;
+  }
+
+    .text{
+        width: 100%;
+        height: 80%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: white;
+        flex-direction: column;
+        h1{
+            font-size: 65px;
+            padding-bottom: 30px;
+        
+        }
+    }
+}
+
+.activities{
+    justify-content: center;
+    flex-direction: row;
+    padding-right: 20px;
+    font-size: medium;
+
+
+
+
+}
